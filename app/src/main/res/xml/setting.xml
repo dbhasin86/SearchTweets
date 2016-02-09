@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="preference_interval"
+        android:layout="@layout/preference_layout"
+        android:title="@string/UpdateInterval" >
+    </Preference>
+    <Preference
+        android:key="preference_threshold"
+        android:layout="@layout/preference_layout"
+        android:title="@string/Threshold" >
+    </Preference>
+    <Preference
+        android:key="preference_days"
+        android:layout="@layout/preference_layout"
+        android:title="@string/DeletionInterval" >
+    </Preference>
+
+</PreferenceScreen>

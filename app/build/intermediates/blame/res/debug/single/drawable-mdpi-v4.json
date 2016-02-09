@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cab_top_pressed_holo_dark.9.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\cab_top_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cab_top_pressed_holo_light.9.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\cab_top_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close_window_normal_holo_dark.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\ic_close_window_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_default_holo_light.9.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_search_normal_holo_dark.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\ic_search_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\textfield_search_selected_holo_light.9.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_search.png",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_search.png"
+    }
+]

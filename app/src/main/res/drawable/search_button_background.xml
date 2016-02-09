@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/cab_top_pressed_holo_light" />
+    <item
+        android:state_focused="true"
+        android:drawable="@drawable/cab_top_pressed_holo_light" />
+    <item
+        android:drawable="@drawable/cab_top_normal_holo_light" />
+</selector>

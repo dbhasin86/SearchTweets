@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Android/Studio%20Workspace/SearchTweets/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="day_items">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array>
+    <string-array name="interval_items">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array>
+    <string-array name="threshold_items">
+    <item>10</item>
+    <item>20</item>
+    <item>30</item>
+    <item>40</item>
+</string-array>
+    <!-- From: file:/E:/Android/Studio%20Workspace/SearchTweets/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/E:/Android/Studio%20Workspace/SearchTweets/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="RecipientEditor_height">41dip</dimen>
+    <dimen name="RecipientLayout_textSize">18sp</dimen>
+    <dimen name="RecipientParentLayout_height">52dip</dimen>
+    <dimen name="Search_button_layout_height">52dip</dimen>
+    <!-- From: file:/E:/Android/Studio%20Workspace/SearchTweets/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="DeletionInterval">Deletion Interval Days</string>
+    <string name="Error">Tweet Retreival Error</string>
+    <string name="Threshold">Threshold</string>
+    <string name="UpdateInterval">Update Interval Days</string>
+    <string name="app_name">Search Tweets</string>
+    <string name="no_tweets">No Tweets to display</string>
+    <string name="ok">OK</string>
+    <string name="retrieve_error">The server is not responding. Please try again after some time.</string>
+    <string name="search_box_hint">Search For...</string>
+    <string name="settings">Settings</string>
+    <string name="toast_threshold">Unable to cache any more tweets - Threshold limit reached</string>
+    <!-- From: file:/E:/Android/Studio%20Workspace/SearchTweets/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

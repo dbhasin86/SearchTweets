@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<dimen
+    	name="RecipientParentLayout_height">52dip</dimen>
+	<dimen
+    	name="RecipientLayout_textSize">18sp</dimen>
+    <dimen
+    	name="RecipientEditor_height">41dip</dimen>
+	<dimen
+        name="Search_button_layout_height">52dip</dimen>
+    
+</resources>

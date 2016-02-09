@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_background.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable\\search_button_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recepient_holder_background.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\drawable\\recepient_holder_background.xml"
+    }
+]

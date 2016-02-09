@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\GAMING_RIG\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Android\Studio Workspace\SearchTweets\app\build\intermediates\pre-dexed\debug\gson-2.2.4-1834d6f196d74158453fc8f1acca8283a7b788f0.jar" />
+    </item>
+
+</items>

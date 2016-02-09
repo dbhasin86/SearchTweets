@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_item.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\layout\\tweet_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_layout.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\layout\\preference_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_setting.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\layout\\main_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_tweets.xml",
+        "source": "E:\\Android\\Studio Workspace\\SearchTweets\\app\\src\\main\\res\\layout\\search_tweets.xml"
+    }
+]
